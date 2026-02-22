@@ -1,0 +1,1 @@
+const getAPIUrl="https://jsonplaceholder.typicode.com/posts"
